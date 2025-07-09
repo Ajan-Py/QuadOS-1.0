@@ -1,8 +1,8 @@
+#QUADOS Version 1.0 by AJAN
 import pygame
 import sys
 import time
 
-# Initialize pygame
 pygame.init()
 
 # Constants
